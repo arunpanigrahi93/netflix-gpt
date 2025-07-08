@@ -15,4 +15,4 @@
             - MovieLists * N
 - NetflixGPT
     - Search Bar
-    - Movie
+    - Movie suggestions
