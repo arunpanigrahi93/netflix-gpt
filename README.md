@@ -1,6 +1,8 @@
 # Netflix GPT
 - vite
 - configure tailwindCSS
+- Header
+- Login form
 
 # Features
 - Login/Sign up
